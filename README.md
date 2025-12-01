@@ -48,7 +48,8 @@ print(prediction)
 ```
 
 ## 📈 Demo
-Check the notebooks in the `notebooks/` folder for example workflows and demonstrations.
+Demo scripts are available in the `src/` folder to show how the NLP pipeline works.
+
 
 
 
