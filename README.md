@@ -1,4 +1,4 @@
-# NLP.give
+# NLP
 
 NLP.give is a simple Natural Language Processing project that demonstrates text preprocessing, feature extraction, and machine-learning based text classification. It provides a basic pipeline that can be reused for tasks like resume processing, document classification, and text-similarity based recommendations.
 
